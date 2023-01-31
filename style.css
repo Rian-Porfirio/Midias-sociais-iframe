@@ -17,6 +17,11 @@ body{
     min-height: 100vh;
 }
 
+main{
+    position: relative;
+    min-height: 100vh;
+}
+
 img{
     height: 70%;
 }
@@ -48,7 +53,7 @@ img{
     display: flex;
     height: 7vh;
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 60px;
     border-radius: 50%;
 }
 
