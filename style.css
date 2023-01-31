@@ -30,11 +30,23 @@ img{
     transform: translate(-50%, -50%);
 }
 
-#midias{
+.midias{
     position: absolute;
-    border: 2px solid white;
-    width: 13%;
+    display: inline-block;
+    
+
     height: 65%;
-    left: 87%;
+    left: 96%;
 }
 
+.icones{
+    display: flex;
+    height: 7vh;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+}
+
+.icones:hover{
+    border: 2px solid white;
+}
