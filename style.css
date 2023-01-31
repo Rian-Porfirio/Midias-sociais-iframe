@@ -30,6 +30,11 @@ img{
     transform: translate(-50%, -50%);
 }
 
+#telinha{
+    width: 30vh;
+    height: 53vh;
+}
+
 .midias{
     position: absolute;
     display: inline-block;
