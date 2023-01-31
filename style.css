@@ -53,5 +53,11 @@ img{
 }
 
 .icones:hover{
-    border: 2px solid white;
+    transform: scale(1.2);
+    transition: 200ms;
+    border: 1px solid white;
+}
+
+.icones:active{
+    transform: scale(1.0);
 }
